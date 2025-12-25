@@ -1,0 +1,6 @@
+pandas
+sqlite3
+os
+stats #Scipy
+statsmodels.api
+numpy
